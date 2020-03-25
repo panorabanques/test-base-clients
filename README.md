@@ -1,6 +1,6 @@
 ### Présentation
 
-Nous souhaitons développer un outils permettant la gestion d'une base clients.
+Nous souhaitons développer une application web permettant la gestion d'une base clients.
 
 ### Cet outils doit permettre :
 
@@ -8,7 +8,7 @@ Nous souhaitons développer un outils permettant la gestion d'une base clients.
     - de saisir un client avec civilité, nom, prenom, date de naissance, email, adresse postale
         - la saisie de l'adresse postale doit être facilitée par l'API publique: https://adresse.data.gouv.fr/
     - de supprimer ou modifier un client.
-    - importer la base client depuis un format de votre choix
+    - importer la base client depuis un format de votre choix (en ligne de commande ou  via l'écran)
     - exporter la base client dans un format de votre choix
     - d'afficher une synthèse des clients par département
     - Optionel: brancher une sécurisation de l'application et deux modes differents admin / reader only
