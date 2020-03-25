@@ -15,15 +15,12 @@ Nous souhaitons développer une application web permettant la gestion d'une base
 
 ### Conseils
 
-Le temps de développement est libre (attention à ne pas y passer trop de temps - le but est de voir comment vous développez et pas de passer ce code en production - Ce n'est pas grave si le dev. n'est pas complet)
-Le choix des technologies et des frameworks est libre (postgres, nodejs et vuejs conseillés mais pas obligatoire).
-L'outils doit pouvoir supporter une volumétrie importante sans perte significative de temps de réponse.
-Les validations se font cotés serveur et/ou client (choix à expliquer)
+    - Le temps de développement est libre (attention à ne pas y passer trop de temps - le but est de voir comment vous développez et pas de passer ce code en production - Ce n'est pas grave si le dev. n'est pas complet)
+    - Le choix des technologies et des frameworks est libre (postgres, nodejs et vuejs conseillés mais pas obligatoire).
+    - L'outils doit pouvoir supporter une volumétrie importante sans perte significative de temps de réponse.
+    - Les validations se font cotés serveur et/ou client (choix à expliquer)
 
-### 
+### Finalité
 
-Il vous sera ensuite demander d'expliquer vos choix de technologies (si differents de ceux préconisés)
-D'expliquer vois choix de developpements: 
-  - Structure
-  - Pattern et choix de développement
-  - Tests
+    - Il vous sera ensuite demander d'expliquer vos choix de technologies (si differents de ceux préconisés)
+    - D'expliquer vois choix de developpements (Structure, Pattern, Tests mis en place)
