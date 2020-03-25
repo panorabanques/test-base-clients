@@ -22,5 +22,5 @@ Nous souhaitons développer une application web permettant la gestion d'une base
 
 ### Finalité
 
-    - Il vous sera ensuite demander d'expliquer vos choix de technologies (si differents de ceux préconisés)
+    - Il vous sera ensuite demander d'expliquer vos choix technologiques (si différents de ceux préconisés)
     - D'expliquer vois choix de developpements (Structure, Pattern, Tests mis en place)
